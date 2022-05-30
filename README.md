@@ -1,4 +1,4 @@
-# Proyecto inicial - Curso de RXJS
+# RXJS operators library
 
 * Lo primero que debemos de hacer después de descargar el código es ejecutar el comando:
 
